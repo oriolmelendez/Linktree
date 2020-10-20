@@ -1,6 +1,7 @@
 # Linktree
-Linktree octubre
+Linktree for
 
-#Author: oriolmelendez@gmail.com
+Author: Oriol Meléndez Bonet
+Mail: oriolmelendez@gmail.com
 
 Linktree code made with HTML and CSS
