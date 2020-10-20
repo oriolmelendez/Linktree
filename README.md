@@ -1,5 +1,5 @@
 # Linktree
-Linktree for
+Linktree for Octubre Casal Independentista
 
 Author: Oriol Meléndez Bonet
 Mail: oriolmelendez@gmail.com
